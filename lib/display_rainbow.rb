@@ -2,6 +2,6 @@
 
 def #display_rainbow(colors)
 
-colors.each { |i|
+colors.each { |c|
 "#{letters[i]} #{colors[i]}"}
 end
